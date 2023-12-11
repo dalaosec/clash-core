@@ -3,9 +3,9 @@ package dns
 import (
 	"net"
 
-	"github.com/Dreamacro/clash/common/cache"
-	"github.com/Dreamacro/clash/component/fakeip"
-	C "github.com/Dreamacro/clash/constant"
+	"github.com/dalaosec/clash-core/common/cache"
+	"github.com/dalaosec/clash-core/component/fakeip"
+	C "github.com/dalaosec/clash-core/constant"
 )
 
 type ResolverEnhancer struct {

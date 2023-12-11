@@ -4,7 +4,7 @@ import (
 	"net"
 	"sort"
 
-	"github.com/Dreamacro/clash/transport/ssr/tools"
+	"github.com/dalaosec/clash-core/transport/ssr/tools"
 )
 
 func init() {

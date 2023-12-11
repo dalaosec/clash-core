@@ -7,11 +7,11 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/Dreamacro/clash/adapter"
-	"github.com/Dreamacro/clash/adapter/outbound"
-	"github.com/Dreamacro/clash/common/singledo"
-	C "github.com/Dreamacro/clash/constant"
-	types "github.com/Dreamacro/clash/constant/provider"
+	"github.com/dalaosec/clash-core/adapter"
+	"github.com/dalaosec/clash-core/adapter/outbound"
+	"github.com/dalaosec/clash-core/common/singledo"
+	C "github.com/dalaosec/clash-core/constant"
+	types "github.com/dalaosec/clash-core/constant/provider"
 
 	regexp "github.com/dlclark/regexp2"
 	"github.com/samber/lo"

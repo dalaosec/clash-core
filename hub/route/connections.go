@@ -2,14 +2,14 @@ package route
 
 import (
 	"encoding/json"
+	"github.com/go-chi/chi/v5"
 	"net/http"
 	"strconv"
 	"time"
 
-	"github.com/Dreamacro/clash/tunnel/statistic"
+	"github.com/dalaosec/clash-core/tunnel/statistic"
 
 	"github.com/Dreamacro/protobytes"
-	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
 )

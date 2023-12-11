@@ -3,8 +3,8 @@ package mmdb
 import (
 	"sync"
 
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/log"
+	C "github.com/dalaosec/clash-core/constant"
+	"github.com/dalaosec/clash-core/log"
 
 	"github.com/oschwald/geoip2-golang"
 )

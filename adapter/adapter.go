@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Dreamacro/clash/common/queue"
-	"github.com/Dreamacro/clash/component/dialer"
-	C "github.com/Dreamacro/clash/constant"
+	"github.com/dalaosec/clash-core/common/queue"
+	"github.com/dalaosec/clash-core/component/dialer"
+	C "github.com/dalaosec/clash-core/constant"
 
 	"go.uber.org/atomic"
 )
